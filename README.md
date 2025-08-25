@@ -17,6 +17,7 @@ The goal is to uncover insights and visualize trends in movie ratings, genres, a
 - **Pandas** (data cleaning & manipulation)
 - **Seaborn / Matplotlib** (visualizations)
 - **Jupyter Notebook / VS Code**
+- **Machine Learning**
 
 ---
 
